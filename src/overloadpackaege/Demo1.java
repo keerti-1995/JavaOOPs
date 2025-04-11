@@ -1,9 +1,9 @@
 package overloadpackaege;
 
 public class Demo1 {
-	//Function(method) over loading is nothing but we can use same name for multiple  methods  in a same class.
+	/*Function(method) over loading is nothing but we can use same name for multiple  methods  in a same class.
 	//but we should differentiate methods by giving arguments.
-	//either give different  numbers of arguments(int a,int b) or different data type(String name)
+	//either give different  numbers of arguments(int a,int b) or different data type(String name)*/
 	public void getdata(int a)
 	{
 		System.out.println("first getdata"+" "+a);
