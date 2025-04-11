@@ -1,5 +1,5 @@
 
-/*Abstraction :it is nothing but hiding the implementation from the user,just giving the functionalities.
+/***Abstraction** :it is nothing but hiding the implementation from the user,just giving the functionalities.
  * in abstraction class we can use both abstract and non abstract methods.
  * if we don't use initialy the class as abstract when we change the method as abstract,class will converted as abstract class.
  * in abstract class access modifires should be public or protected to methods and variables but not as private.we need to inherit the ppty from parent to child.
